@@ -1,5 +1,7 @@
 # tidyfiles
 
+https://x.com/Eidan_Dev/status/2116230111855005923/photo/1
+
 A Python script that automatically tidies your Downloads folder: it sorts files by type and archives those older than 30 days.
 
 A single file, no external dependencies. Compatible with Python 3.9+ on Windows, macOS and Linux.
