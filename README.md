@@ -1,6 +1,10 @@
 # tidyfiles
 
-https://x.com/Eidan_Dev/status/2116230111855005923/photo/1
+<img width="2240" height="1120" alt="image" src="https://github.com/user-attachments/assets/49459ab8-a349-45b7-a611-7cd31de011a1" />
+
+
+<img width="565" height="764" alt="Capture d&#39;écran 2026-10-31 104915" src="https://github.com/user-attachments/assets/c25f1ce5-b207-4513-b155-2f26e02ae712" />
+
 
 A Python script that automatically tidies your Downloads folder: it sorts files by type and archives those older than 30 days.
 
